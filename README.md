@@ -2,4 +2,4 @@ Coolares is an ag-tech venture focused on reducing yield-loss in fruit orchards 
 
 With that problem in mind, our team set out to create a product that could improve cooling efficiency, and ultimately cut down on the growing losses these farms are seeing. We use sensors to monitor the outside temperature of fruit in real time, and once it hits a certain threshold, our technology autonomously turns on existing cooling systems. This ensures that the fruit never reaches temperatures in which they experience burning.
 
-Right now, Growcycle is at a stage in which we are looking to commence pilot studies in real-world scenarios. We have built a prototype, and are working with Washington State University in the summer to conduct a pilot study and fine-tune our technology.
+Right now, Coolares is at a stage in which we are looking to commence pilot studies in real-world scenarios. We have built a prototype, and are working with Washington State University in the summer to conduct a pilot study and fine-tune our technology.
